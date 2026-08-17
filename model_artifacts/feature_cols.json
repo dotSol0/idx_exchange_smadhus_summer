@@ -1,0 +1,23 @@
+[
+  "Latitude",
+  "Longitude",
+  "LivingArea",
+  "ParkingTotal",
+  "LotSizeAcres",
+  "YearBuilt",
+  "BathroomsTotalInteger",
+  "BedroomsTotal",
+  "Stories",
+  "LotSizeArea",
+  "MainLevelBedrooms",
+  "AssociationFee",
+  "LotSizeSquareFeet",
+  "Levels_MultiSplit",
+  "NumLevels",
+  "BedBathRatio",
+  "PropertyAge",
+  "SchoolDistrict_MeanPrice",
+  "CloseMonth_sin",
+  "CloseMonth_cos",
+  "DistanceToNearestCBD_km"
+]
