@@ -3,7 +3,7 @@
 An Automated Valuation Model (AVM) that predicts `ClosePrice` for residential properties in
 California, built end-to-end from raw MLS exports through a deployable Streamlit pricing tool.
 Modeling decisions in this repo follow IDX Exchange's internal `AVM_Data_Science_Best_Practices
-v.1.pdf`, condensed in [`CLAUDE.md`](CLAUDE.md) — chronological (never random) train/test
+v.1.pdf`, condensed in [`CLAUDE.md`](CLAUDE.md) — chronological  train/test
 splits, leakage-checked features, and a multi-metric evaluation broken out by price band and
 geography, not just a single top-line number.
 
